@@ -1,3 +1,10 @@
+# Snake Game for Succinct Rock Stars Contest
+
+![Game Screenshot](https://github.com/sashunita/snake-game_Succinct/blob/main/img.png)
+
+This is a simple **Snake Game** created for the **Succinct Rock Stars Week 2** contest...
+
+
 About the Project:
 This project is part of the Succinct Rock Stars challenge, celebrating builders and creatives in the zk (Zero Knowledge) community. 
 I created this game to showcase my skills and creativity. The game is simple but fun, and I hope you enjoy playing it!
